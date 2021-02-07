@@ -1,4 +1,3 @@
-# School_District_Analysis
 # School District Analysis
 ## Overview
 Previously, our client, Maria, a data engineer for an undisclosed school district, tasked us with aggregating district data and providing insights to the superintendent and school board about school performance trends and patterns in order to make decisions on school budgets and priorities. In particular, we looked at student funding and student test scores, using math and reading scores, as well as various information on the schools they attend, such as school size and type.
